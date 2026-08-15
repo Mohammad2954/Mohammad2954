@@ -11,7 +11,6 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **personal front-end projects**
-- 🌱 I'm currently learning **React.js**
 - 💡 Passionate about creating **responsive & user-friendly interfaces**
 - 🎯 Goal: Becoming a **Senior Front-End Developer**
 

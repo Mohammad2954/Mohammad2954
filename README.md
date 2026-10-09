@@ -1,8 +1,8 @@
-<h1 align="center">Hi there! 👋 I'm a Front-End Developer</h1>
+# Hi there! 👋 I'm a Front-End Developer
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I+build+beautiful+web+experiences+%F0%9F%8E%A8;Turning+ideas+into+interactive+UIs+%E2%9C%A8;Currently+learning+React+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I+build+beautiful+web+experiences+%F0%9F%8E%A8;Turning+ideas+into+interactive+UIs+%E2%9C%A8;Building+websites+with+React+%26+WordPress+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,9 @@
 
 * 🔭 I'm currently working on **personal front-end projects**
 * 💡 Passionate about creating **responsive & user-friendly interfaces**
-* ⚛️ Currently learning and building projects with **React**
+* ⚛️ Building interactive web applications with **React**
+* 🌐 Designing and building websites with **WordPress & Elementor**
+* 🛒 Exploring e-commerce development with **WooCommerce**
 * 🎯 Goal: Becoming a **Senior Front-End Developer**
 
 ---
@@ -29,6 +31,12 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### CMS & Website Builders
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge\&logo=elementor\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge\&logo=woocommerce\&logoColor=white)
 
 ### Tools
 
